@@ -1,0 +1,4 @@
+interface:
+  display_name: "奶家族像素表情制作"
+  short_description: "按游戏定稿角色制作微信像素动图，校准表情、动作、循环和导出质量"
+  default_prompt: "用 $naiwa-pixel-stickers 参照定稿原图制作奶家族微信表情，让动作和表情一起表达聊天含义。"
