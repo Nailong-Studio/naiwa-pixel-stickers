@@ -16,6 +16,12 @@
 
 从角色定稿开始画，再按动作选择自然循环或在结尾停一拍。制作流程、可用原图和微信投稿尺寸都在仓库里。[制作流程](SKILL.md) · [角色定稿](references/models.md) · [动作与节奏](references/motion-quality.md) · [微信导出规格](references/wechat-delivery.md)
 
+## 给五个奶蛙项目点 Star
+
+如果这套像素表情让你做出一枚能用的奶蛙，去 GitHub 给五个项目各点一颗 Star：[素材仓库](https://github.com/Nailong-Studio/NaiWa-Wallpaper)、[艺术圣殿](https://github.com/Nailong-Studio/NaiLoong-Universe)、[新标签页扩展](https://github.com/Nailong-Studio/NaiWa-NewTab)、[像素游戏](https://github.com/Nailong-Studio/naiwa)、[像素表情技能](https://github.com/Nailong-Studio/naiwa-pixel-stickers)。
+
+Star 是公开的收藏，不用打赏，也不用注册新账号。
+
 ## 检查导出的 GIF
 
 在仓库目录运行下面两行，就能用自带的奶猫样例试一次。检查脚本会核对 240 × 240 的画布、透明背景、循环和文件大小。把最后的路径换成自己的 GIF 即可。
